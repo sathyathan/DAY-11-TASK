@@ -1,0 +1,17 @@
+.container{
+    color:aqua !important;
+    background-color: rgb(rgb(30, 255, 0), green, blue);
+}
+.card{
+    border-radius: 30px !important;
+    background-color:whitesmoke !important;
+    margin-bottom: 10px !important;
+}
+.card.img-box{
+    display: flex;
+    justify-content: center!important;
+
+}
+.img-box image{
+padding-bottom: 10px !important;
+}
